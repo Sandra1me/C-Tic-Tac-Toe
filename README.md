@@ -2,6 +2,8 @@
 
 A two-player Tic-Tac-Toe game implemented in C, designed to practice structured programming, 2D arrays, modular functions, and input validation.
 
+<img width="1920" height="1080" alt="Tic-Tac-toe game" src="https://github.com/user-attachments/assets/95c1a5cb-130f-4861-b75b-97aee62f7313" />
+
 ## Features
 
 - 3x3 board implemented using a 2D array
